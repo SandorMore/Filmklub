@@ -1,0 +1,10 @@
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\deps\tower_cookies-8c54812b965b8d31.d: C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\lib.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\extract.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\service\mod.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\service\future.rs
+
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\deps\libtower_cookies-8c54812b965b8d31.rlib: C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\lib.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\extract.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\service\mod.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\service\future.rs
+
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\deps\libtower_cookies-8c54812b965b8d31.rmeta: C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\lib.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\extract.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\service\mod.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\service\future.rs
+
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\lib.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\extract.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\service\mod.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tower-cookies-0.10.0\src\service\future.rs:
