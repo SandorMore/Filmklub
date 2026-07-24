@@ -1,0 +1,12 @@
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\deps\spin-4692648099b13146.d: C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lib.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\barrier.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lazy.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex\spin.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\once.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\relax.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\rwlock.rs
+
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\deps\libspin-4692648099b13146.rmeta: C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lib.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\barrier.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lazy.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex\spin.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\once.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\relax.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\rwlock.rs
+
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lib.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\barrier.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\lazy.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\mutex\spin.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\once.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\relax.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spin-0.9.9\src\rwlock.rs:

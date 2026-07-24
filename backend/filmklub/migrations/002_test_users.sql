@@ -1,0 +1,2 @@
+INSERT INTO USERS (id, username, password_hash)
+VALUES ('00000000-0000-0000-0000-000000000001', 'TEST', 'ASG82Aasd2');

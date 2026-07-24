@@ -1,0 +1,14 @@
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\deps\serde-4bc560c27d6f0da8.d: C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\build\serde-1f06ebef1b771151\out/private.rs
+
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\deps\libserde-4bc560c27d6f0da8.rlib: C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\build\serde-1f06ebef1b771151\out/private.rs
+
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\deps\libserde-4bc560c27d6f0da8.rmeta: C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\build\serde-1f06ebef1b771151\out/private.rs
+
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\Sanyi\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+C:\Users\Sanyi\Desktop\Filmklub\backend\filmklub\target\debug\build\serde-1f06ebef1b771151\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\Sanyi\\Desktop\\Filmklub\\backend\\filmklub\\target\\debug\\build\\serde-1f06ebef1b771151\\out
